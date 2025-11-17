@@ -26,7 +26,7 @@
 
 # REGISTER NO:25006773
 # NAME:NAVASRI.B
-# SLOT NO:3P1-1
+# SLOT NAME:3P1-1
 ```
 import numpy as np
 import math
